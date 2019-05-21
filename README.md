@@ -49,7 +49,7 @@
 
 **1.3** To install, please follow the instruction. [Click Here](https://realpython.com/installing-python/)
 
-<span style="color:red">
+<span style="color:red;">
 <code> <b>Important!</b> don't forget to checkout "Add Python 3.7 to PATH"
 </code>
 </span>
@@ -58,8 +58,8 @@
 <!-- CONTRIBUTING -->
 ## Contributors
 
-@adadesions
-
+1. [Ada De Sions, an Instructor.](https://github.com/adadesions/)
+2. ...
 
 <!-- LICENSE -->
 ## License
