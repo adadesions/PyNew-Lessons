@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/adadesions/PyKLogger">
-    <img src="https://firebasestorage.googleapis.com/v0/b/adabrain-9229.appspot.com/o/PyNew-Lessions%2Flogo_white_background.jpg?alt=media&token=afb5d113-8466-4fc5-a58f-fce8f46eaf71" alt="Logo" width="320" height="200">
+    <img src="https://firebasestorage.googleapis.com/v0/b/adabrain-9229.appspot.com/o/PyNew-lessons%2Flogo_white_background.jpg?alt=media&token=d2989e54-e7a3-49b4-a71a-aacb9ef8fcf6" alt="Logo" width="320" height="200">
   </a>
 
   <h3 align="center">PyNew-Lessions</h3>
