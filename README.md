@@ -50,13 +50,15 @@
 **1.3** To install, please follow the instruction. [Click Here](https://realpython.com/installing-python/)
 
 <span style="color:red;">
+<img src="https://cdn3.iconfinder.com/data/icons/snowish/128x128/emblems/emblem-important.png" width="20">
 <code> <b>Important!</b> don't forget to checkout "Add Python 3.7 to PATH"
 </code>
 </span>
+<br /><br />
 <img src="https://firebasestorage.googleapis.com/v0/b/adabrain-9229.appspot.com/o/PyNew-lessons%2Finstallation%2FScreenshot%20from%202019-05-21%2015-51-54.png?alt=media&token=6f245dd5-8d2d-421a-a93d-f86066f9fdc3"/>
 
 
-### Step 2 - Python Verification
+### Step 2 - Check Python is Installed
 
 <img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/windows-256.png" width="30"> **Windows** 
 
@@ -96,7 +98,7 @@ python -V
 ```
 or
 ```sh
-python3 -V[PyInstaller][https://firebasestorage.googleapis.com/v0/b/adabrain-9229.appspot.com/o/PyNew-lessons%2Finstallation%2Fpython.png?alt=media&token=eb8d2b25-0f39-4edb-8e67-becf35d8e699]
+python3 -V
 ```
 
 *OUTPUT*
@@ -116,7 +118,7 @@ We really need a package manager called "PIP" then let's install it.
 Click on, Python installer again (the icon look like figure below)
 
 <p align="center">
-<img src="https://firebasestorage.googleapis.com/v0/b/adabrain-9229.appspot.com/o/PyNew-lessons%2Finstallation%2Fpython.png?alt=media&token=eb8d2b25-0f39-4edb-8e67-becf35d8e699" width="100"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/adabrain-9229.appspot.com/o/PyNew-lessons%2Finstallation%2Fpython.png?alt=media&token=eb8d2b25-0f39-4edb-8e67-becf35d8e699" width="50"/>
 </p>
 
 **3.2**
@@ -127,6 +129,12 @@ Check all like below figure,
 
 **3.3**
 Then click next to finish!
+
+**3.4**
+Check pip was installed
+```sh
+pip -V
+```
 
 <hr>
 
