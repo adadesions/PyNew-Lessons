@@ -55,6 +55,30 @@
 </span>
 <img src="https://firebasestorage.googleapis.com/v0/b/adabrain-9229.appspot.com/o/PyNew-lessons%2Finstallation%2FScreenshot%20from%202019-05-21%2015-51-54.png?alt=media&token=6f245dd5-8d2d-421a-a93d-f86066f9fdc3"/>
 
+
+### Step 2 - Python Verification
+#### Windows <hr>
+**2.1** Open, cmd.exe
+
+<img src="https://firebasestorage.googleapis.com/v0/b/adabrain-9229.appspot.com/o/PyNew-lessons%2Finstallation%2FWindows_cmd.jpg?alt=media&token=49451dfb-b6c8-4c3d-bf02-12835d75631c">
+
+**2.2** Type a following command in cmd
+```sh
+python -V
+```
+or
+```sh
+python3 -V
+```
+
+*OUTPUT*
+```sh
+Python 3.7.3
+```
+**If you've got an error message, please ask your instructor.**
+> A command is not recognized as an internal or external command
+
+
 <!-- CONTRIBUTING -->
 ## Contributors
 
