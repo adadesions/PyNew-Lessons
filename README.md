@@ -75,10 +75,32 @@ python3 -V
 ```sh
 Python 3.7.3
 ```
-**If you've got an error message, please ask your instructor.**
+**If you've got this error message, please ask your instructor.**
 > A command is not recognized as an internal or external command
 
 
+#### Linux <hr>
+**2.1** Open, Terminal app
+
+<img src="https://firebasestorage.googleapis.com/v0/b/adabrain-9229.appspot.com/o/PyNew-lessons%2Finstallation%2FScreenshot%20from%202019-05-21%2016-35-41.png?alt=media&token=8eafd1ca-e988-455d-a148-ac13516e79c2">
+
+**2.2** Type a following command in cmd
+```sh
+python -V
+```
+or
+```sh
+python3 -V
+```
+
+*OUTPUT*
+```sh
+Python 3.7.3
+```
+**If you've got this error message, please ask your instructor.**
+> bash: command not found: python
+
+### Step 3 - Package Installation
 <!-- CONTRIBUTING -->
 ## Contributors
 
