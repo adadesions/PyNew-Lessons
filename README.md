@@ -15,7 +15,7 @@
   <h3 align="center">PyNew-Lessions</h3>
 
   <p align="center">
-    A simple key logger program written in Python with GUI powered by Kivy.
+    A lesson for python newbie, who want to be a professional pythonista! 
     <br />
     <a href="https://github.com/adadesions/PyNew-Lessons"><strong>Explore the docs »</strong></a>
     <br />
@@ -29,47 +29,23 @@
 
 
 <!-- ABOUT THE PROJECT -->
-### Built With
-PyKLogger written in Python and using Kivy as GUI framework 
+### Resources in the lesson
 * [Python](https://python.org)
 * [Kivy](https://kivy.org)
-* [Pynput](https://pynput.readthedocs.io/en/latest)
+* [Turtle](https://docs.python.org/3/library/turtle.html)
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+# Getting Started
 
-PyKLogger is provide both CLI and GUI for user.
+## Installation
+### Step 1 - Python installation
+1.1 Go to https://www.python.org/downloads/
 
-### Prerequisites
-* Python 3.5+
-* Pip 19.1.1+
-* Kivy 1.10.1+
-* pygame 1.9.6+
-* pynput 1.4.2
+<img src="https://firebasestorage.googleapis.com/v0/b/adabrain-9229.appspot.com/o/PyNew-lessons%2Finstallation%2FScreenshot%20from%202019-05-21%2015-31-41.png?alt=media&token=51aaaf03-4510-4ae8-bce9-3b4a66bc3637">
 
-
-### Installation and Usage
-
-1. Clone the repo
-```sh
-git clone https://github.com/adadesions/PyKLogger.git
-```
-2. Install dependency
-```sh
-cd PyKLogger
-pip install -r requirements.txt
-```
-
-3. Running
-```python
-# GUI
-python3 GUI_main.py
-
-# CLI
-python3 pyklogger.py
-```
+1.2 
 
 
 <!-- CONTRIBUTING -->
@@ -104,3 +80,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [license-url]: https://choosealicense.com/licenses/mit
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [start-screenshot]: https://raw.githubusercontent.com/adadesions/PyKLogger/master/screenshots/startup_screen.png
+
+<!-- Installation -->
+[download-python]: https://firebasestorage.googleapis.com/v0/b/adabrain-9229.appspot.com/o/PyNew-lessons%2Finstallation%2FScreenshot%20from%202019-05-21%2015-31-41.png?alt=media&token=51aaaf03-4510-4ae8-bce9-3b4a66bc3637
