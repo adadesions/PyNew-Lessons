@@ -90,7 +90,7 @@ python -V
 ```
 or
 ```sh
-python3 -V
+python3 -V[PyInstaller][https://firebasestorage.googleapis.com/v0/b/adabrain-9229.appspot.com/o/PyNew-lessons%2Finstallation%2Fpython.png?alt=media&token=eb8d2b25-0f39-4edb-8e67-becf35d8e699]
 ```
 
 *OUTPUT*
@@ -101,6 +101,16 @@ Python 3.7.3
 > bash: command not found: python
 
 ### Step 3 - Package Installation
+**Windows** <hr>
+We really need a package manager called "PIP" then let's install it.
+
+**3.1**
+Click on, Python installer again (the icon look like figure below)
+
+<p align="center">
+<img src="https://firebasestorage.googleapis.com/v0/b/adabrain-9229.appspot.com/o/PyNew-lessons%2Finstallation%2Fpython.png?alt=media&token=eb8d2b25-0f39-4edb-8e67-becf35d8e699" width="100"/>
+</p>
+
 <!-- CONTRIBUTING -->
 ## Contributors
 
