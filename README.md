@@ -41,24 +41,24 @@
 
 ## Installation
 ### Step 1 - Python installation
-1.1 Go to https://www.python.org/downloads/
+**1.1** Go to https://www.python.org/downloads/
 
 <img src="https://firebasestorage.googleapis.com/v0/b/adabrain-9229.appspot.com/o/PyNew-lessons%2Finstallation%2FScreenshot%20from%202019-05-21%2015-31-41.png?alt=media&token=51aaaf03-4510-4ae8-bce9-3b4a66bc3637">
 
-1.2 
+**1.2** Then, click on download button.
 
+**1.3** To install, please follow the instruction. [Click Here](https://realpython.com/installing-python/)
+
+<span style="color:red">
+<code> <b>Important!</b> don't forget to checkout "Add Python 3.7 to PATH"
+</code>
+</span>
+<img src="https://firebasestorage.googleapis.com/v0/b/adabrain-9229.appspot.com/o/PyNew-lessons%2Finstallation%2FScreenshot%20from%202019-05-21%2015-51-54.png?alt=media&token=6f245dd5-8d2d-421a-a93d-f86066f9fdc3"/>
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contributors
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature-AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature`)
-4. Push to the Branch (`git push origin feature-AmazingFeature`)
-5. Open a Pull Request
-
+@adadesions
 
 
 <!-- LICENSE -->
