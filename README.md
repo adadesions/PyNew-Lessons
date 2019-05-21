@@ -57,7 +57,11 @@
 
 
 ### Step 2 - Python Verification
-#### Windows <hr>
+
+<img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/windows-256.png" width="30"> **Windows** 
+
+<hr>
+
 **2.1** Open, cmd.exe
 
 <img src="https://firebasestorage.googleapis.com/v0/b/adabrain-9229.appspot.com/o/PyNew-lessons%2Finstallation%2FWindows_cmd.jpg?alt=media&token=49451dfb-b6c8-4c3d-bf02-12835d75631c">
@@ -79,7 +83,9 @@ Python 3.7.3
 > A command is not recognized as an internal or external command
 
 
-#### Linux <hr>
+<img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" width="50"> **Linux** 
+<hr>
+
 **2.1** Open, Terminal app
 
 <img src="https://firebasestorage.googleapis.com/v0/b/adabrain-9229.appspot.com/o/PyNew-lessons%2Finstallation%2FScreenshot%20from%202019-05-21%2016-35-41.png?alt=media&token=8eafd1ca-e988-455d-a148-ac13516e79c2">
@@ -101,7 +107,9 @@ Python 3.7.3
 > bash: command not found: python
 
 ### Step 3 - Package Installation
-**Windows** <hr>
+<img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/windows-256.png" width="30"> **Windows** 
+
+<hr>
 We really need a package manager called "PIP" then let's install it.
 
 **3.1**
@@ -111,6 +119,31 @@ Click on, Python installer again (the icon look like figure below)
 <img src="https://firebasestorage.googleapis.com/v0/b/adabrain-9229.appspot.com/o/PyNew-lessons%2Finstallation%2Fpython.png?alt=media&token=eb8d2b25-0f39-4edb-8e67-becf35d8e699" width="100"/>
 </p>
 
+**3.2**
+Check all like below figure,
+
+<img src="https://firebasestorage.googleapis.com/v0/b/adabrain-9229.appspot.com/o/PyNew-lessons%2Finstallation%2Fpip-install.png?alt=media&token=20792d9e-1103-49f0-b1d5-b6227e22eff0" />
+
+
+**3.3**
+Then click next to finish!
+
+<hr>
+
+<img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" width="50"> **Linux** 
+<hr>
+
+**3.1**
+Download script from source
+```sh
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+```
+
+**3.2**
+Run the script
+```sh
+python get-pip.py
+```
 <!-- CONTRIBUTING -->
 ## Contributors
 
