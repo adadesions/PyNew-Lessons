@@ -136,6 +136,12 @@ Check pip was installed
 pip -V
 ```
 
+**OUTPUT**
+```sh
+pip 19.0.3 from /usr/local/lib/python3.7/dist-packages/pip (python 3.7)
+
+```
+
 <hr>
 
 <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" width="50"> **Linux** 
@@ -152,6 +158,20 @@ Run the script
 ```sh
 python get-pip.py
 ```
+
+**3.3**
+Check pip was installed
+```sh
+pip -V
+```
+
+**OUTPUT**
+```sh
+pip 19.0.3 from /usr/local/lib/python3.7/dist-packages/pip (python 3.7)
+
+```
+
+
 <!-- CONTRIBUTING -->
 ## Contributors
 
