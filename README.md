@@ -171,12 +171,20 @@ pip 19.0.3 from /usr/local/lib/python3.7/dist-packages/pip (python 3.7)
 
 ```
 
+### Step 4 - Your Favorite Text Editor!
+I recommend you to use VSCode
+
+## [Download Here](https://code.visualstudio.com)
+
+<img  src="https://firebasestorage.googleapis.com/v0/b/adabrain-9229.appspot.com/o/PyNew-lessons%2Finstallation%2FScreenshot%20from%202019-05-22%2013-39-57.png?alt=media&token=e3395eda-775c-4cb1-af2e-d587b3676aa5" />
+
+#### Install it then get start!!
 
 <!-- CONTRIBUTING -->
 ## Contributors
 
 1. [Ada De Sions, an Instructor.](https://github.com/adadesions/)
-2. ...
+2. (Please Feel free to contribute the lesson)
 
 <!-- LICENSE -->
 ## License
